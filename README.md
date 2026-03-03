@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Eno Ekong
 
+![Python](https://img.shields.io/badge/Python-Professional-blue)
+![SQL](https://img.shields.io/badge/SQL-Advanced-green)
+![AWS](https://img.shields.io/badge/AWS-Learning-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Git](https://img.shields.io/badge/Git-VersionControl-red)
+
 🚀 Data Engineer | Data Analyst | Sage Intacct Specialist | DevOps Learner  
 Building scalable data systems and automation workflows.
 

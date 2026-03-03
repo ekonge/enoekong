@@ -35,8 +35,8 @@ Building scalable data systems and automation workflows.
 
 ## 📊 Featured Projects
 
-🔹 [SQL Analytics Portfolio](https://github.com/ekonge/sql-analytics-portfolio)
-- A collection of SQL projects demonstrating sales, customer, and revenue analysis.
+🔹 [SQL Analytics Portfolio](https://github.com/ekonge/sql-analytics-portfolio)- A collection of SQL projects demonstrating sales, customer, and revenue analysis.
+
 🔹 Automated Data Pipeline (Python + SQL)  
 🔹 Sales ETL Warehouse  
 🔹 Data Dashboard Reporting  
